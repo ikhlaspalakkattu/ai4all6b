@@ -57,7 +57,7 @@ This project investigates whether news sentiment and keyword patterns can accura
    - Stable performance across earnings and non-earnings periods (via time-based CV)  
 
 4. **Real-World Utility**  
-   - Built a deployable Streamlit interface suitable for fintech analysts and retail investors  
+   - Built a deployable Streamlit interface suitable for fintech analysts and retail investors
 
 ---
 
